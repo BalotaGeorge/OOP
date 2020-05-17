@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.pdb
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.exe
+C:\AnyThingElse\PB VS C#\.Labs\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.pdb
