@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\bin\Debug\ClasaPublisher.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\bin\Debug\ClasaPublisher.exe
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\bin\Debug\ClasaPublisher.pdb
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\obj\Debug\ClasaPublisher.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\obj\Debug\ClasaPublisher.exe
+C:\AnyThingElse\PB VS C#\.Labs\ClasaPublisher\ClasaPublisher\obj\Debug\ClasaPublisher.pdb
