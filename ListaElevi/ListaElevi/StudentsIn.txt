@@ -1,0 +1,5 @@
+John Mage 3 5 8 8.8
+Due Mora 2 10 2
+Habo Bas 6 2 10 4 2 6 8
+Ha Ribo 1 10
+Mars Hog 2 5 6
