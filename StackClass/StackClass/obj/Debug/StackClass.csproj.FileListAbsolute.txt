@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\bin\Debug\StackClass.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\bin\Debug\StackClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\bin\Debug\StackClass.pdb
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\obj\Debug\StackClass.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\obj\Debug\StackClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\StackClass\StackClass\obj\Debug\StackClass.pdb
