@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\bin\Debug\CitireFisier.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\bin\Debug\CitireFisier.exe
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\bin\Debug\CitireFisier.pdb
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\obj\Debug\CitireFisier.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\obj\Debug\CitireFisier.exe
+C:\AnyThingElse\PB VS C#\.Labs\CitireFisier\CitireFisier\obj\Debug\CitireFisier.pdb
