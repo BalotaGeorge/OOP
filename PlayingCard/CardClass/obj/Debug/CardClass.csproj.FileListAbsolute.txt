@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\bin\Debug\CardClass.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\bin\Debug\CardClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\bin\Debug\CardClass.pdb
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\obj\Debug\CardClass.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\obj\Debug\CardClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\CardClass\CardClass\obj\Debug\CardClass.pdb
