@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\bin\Debug\InterfaceForm2D.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\bin\Debug\InterfaceForm2D.exe
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\bin\Debug\InterfaceForm2D.pdb
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\obj\Debug\InterfaceForm2D.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\obj\Debug\InterfaceForm2D.exe
+C:\AnyThingElse\PB VS C#\.Labs\InterfaceForm2D\InterfaceForm2D\obj\Debug\InterfaceForm2D.pdb
