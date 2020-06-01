@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\obj\Debug\HeapSort.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+C:\AnyThingElse\PB VS C#\.Labs\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
