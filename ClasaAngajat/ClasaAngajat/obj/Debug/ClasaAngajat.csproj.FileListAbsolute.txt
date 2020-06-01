@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.exe
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.pdb
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.exe
+C:\AnyThingElse\PB VS C#\.Labs\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.pdb
